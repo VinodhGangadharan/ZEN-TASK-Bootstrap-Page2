@@ -1,0 +1,57 @@
+
+
+.col-md
+{
+  padding-top: 20px;
+  padding-bottom: 20px;
+ 
+}
+
+
+h1
+{
+  background-color: black;
+  color: white;
+  background-image: url(https://media.istockphoto.com/id/1169630303/photo/blue-textured-background.webp?b=1&s=170667a&w=0&k=20&c=tI2xFhXqXFqMM0IvxSYY3F7LIwv450h2ch3yD-lZ9HU=);
+}
+
+img
+{
+  width: 100px;
+  height: 135px;
+  border-radius: 50%;
+ padding:12px;
+}
+
+
+
+.outline
+{
+
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/001/849/553/small_2x/modern-gold-background-free-vector.jpg);
+  background-color: peru;
+}
+
+table
+{
+  
+ 
+  border-radius: 10px;
+  border: 2px solid lightgray;
+  padding-top :20px;
+  padding-bottom:20px;
+  padding-right :20px;
+  padding-left:20px;
+
+}
+
+
+.col-md-3
+{
+  
+  padding-top :20px;
+  padding-bottom:20px;
+  padding-right :20px;
+  padding-left:20px;
+  font-size: 14px;
+}
